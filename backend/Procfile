@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT kajriart_4925.wsgi:application
